@@ -1,0 +1,22 @@
+{
+  "name": "Сказки на ночь",
+  "short_name": "Сказки",
+  "description": "Добрые истории для детей 6+ с озвучкой",
+  "start_url": "/skazki",
+  "display": "standalone",
+  "background_color": "#FDF6E3",
+  "theme_color": "#F5C542",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
