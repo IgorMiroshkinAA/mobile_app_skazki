@@ -1,0 +1,24 @@
+# Зависимости
+node_modules/
+
+# Сборка Next.js
+.next/
+out/
+build/
+
+# Переменные окружения
+.env
+.env.local
+.env.production
+
+# Логи
+*.log
+npm-debug.log*
+
+# Редакторы
+.vscode/
+.idea/
+
+# ОС
+.DS_Store
+Thumbs.db
